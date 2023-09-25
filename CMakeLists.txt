@@ -4,3 +4,5 @@ project(msgbus)
 
 add_executable(msgbus main.cpp)
 
+enable_testing()
+
